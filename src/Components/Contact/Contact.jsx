@@ -42,7 +42,7 @@ export default function Contact() {
                      <input
                         type="text"
                         name="fatherName"
-                        placeholder="Father Name"
+                        placeholder="your Father Name"
                         required
                     />
 
