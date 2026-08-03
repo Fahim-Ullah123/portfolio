@@ -35,8 +35,8 @@ export default function Contact() {
                 <form onSubmit={handleSubmit}>
                     <input
                         type="text"
-                        name="name"
-                        placeholder="Your Name"
+                        name="your name"
+                        placeholder="Name"
                         required
                     />
                      <input
