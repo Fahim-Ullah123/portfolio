@@ -39,6 +39,12 @@ export default function Contact() {
                         placeholder="Your Name"
                         required
                     />
+                     <input
+                        type="text"
+                        name="fatherName"
+                        placeholder="Father Name"
+                        required
+                    />
 
                     <input
                         type="email"
